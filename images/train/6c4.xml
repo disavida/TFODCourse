@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D.magna</folder>
+	<filename>6c4.jpg</filename>
+	<path>C:\Users\disav\Desktop\Universidad\CICA\Tensorflow Daphnia Counter\TFODCourse\images\D.magna\6c4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3516</width>
+		<height>1876</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D.magna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>1156</ymin>
+			<xmax>916</xmax>
+			<ymax>1236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D.magna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3306</xmin>
+			<ymin>1236</ymin>
+			<xmax>3396</xmax>
+			<ymax>1306</ymax>
+		</bndbox>
+	</object>
+</annotation>
